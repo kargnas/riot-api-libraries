@@ -16,6 +16,9 @@
     "url": "https://github.com/WxWatch/riot-api-libraries/issues"
   },
   "homepage": "https://github.com/WxWatch/riot-api-libraries#readme",
+  "engines": {
+    "node": ">=24.22.1"
+  },
   "dependencies": {
     "glob": "^7.1.1",
     "jsonschema": "^1.1.1"
